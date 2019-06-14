@@ -1,0 +1,20 @@
+{
+    "name": "1st-hbo/los-espookys-season-1-episode-1-full-tv",
+    "description": "Watch Los Espookys Season 1 Episode 1 Online for Free Putlocker S01E01 WATCH FULL EPISODES NOW (CLICK LINK BELOW TO WATCHING)",
+	"keywords": ["Jett Season 1 Episode 1 Online"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WATCH HERE : https://t.co/yoMX9g67EO",
+            "homepage": "https://t.co/yoMX9g67EO",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
